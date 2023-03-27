@@ -43,6 +43,6 @@ The designs were created to the following widths:
 ### Font
 
 - Family: Outfit
-- Weights: 600, 400, 
+- Weights: 600, 400
 
 
